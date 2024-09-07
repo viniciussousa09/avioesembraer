@@ -28,11 +28,10 @@ Digite o modelo que você procura e descubra todas as informações sobre ele!
 Quer ajudar a melhorar essa aplicação? Abra um pull request!
 
 **Autor:**
-* Seu nome
-* Seu email
-* Seu link para o LinkedIn (opcional)
+* Vinicius Sousa
+* vinicius.oliveirasousa09@gmail.com
+* linkedin.com/in/vinícius-sousa09
 
-[Imagem de um avião Embraer]
 
 **Licença:**
 Esse projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
